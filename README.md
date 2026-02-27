@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently working youtube playlist generator AI<br>I just love it
+I am currently working youtube playlist generator AI that will generate a playlist based on users' specified length of videos, comfort level(beginner, for revision, etc)  <br>I just love it
 
 
 ## 🌐 Socials:
