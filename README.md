@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am raja from DTU(#1 engineering college in delhi)
 # 💫 About Me:
 I am currently working youtube playlist generator AI that will generate a playlist based on users' specified length of videos, comfort level(beginner, for revision, etc)  <br>I just love it
 
