@@ -4,7 +4,7 @@ I am currently working youtube playlist generator AI that will generate a playli
 
 
 ## 🌐 Socials:
-[LinkedIn]
+[LinkedIn](https://www.linkedin.com/in/raja-520878324/)
 
 
 # 💻 Tech Stack:
