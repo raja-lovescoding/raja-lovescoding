@@ -1,6 +1,6 @@
 ## Hi there 👋 I am raja
 # 💫 About Me:
-I am currently working youtube playlist generator AI  that will generate a playlist based on users' specified length of videos, comfort level(beginner, for revision, etc) and a big project to revolutionize how we chat with LLMs so chatting and dixcussing your problem with it will be more meaningful <br>I just love it <br> Connect me on linkedIn to see how it works and what it  will do as  i am not planning to make it open-sourced
+I am currently working youtube playlist generator AI  that will generate a playlist based on users' specified length of videos, comfort level(beginner, for revision, etc) and a big project to revolutionize how we chat with LLMs so chatting and dixcussing your problem with it will be more meaningful <br>I just love it <br> Connect me on linkedIn to see how it works and what it  will do as  i am not planning to make it open-sourced but will push on github for cource control as a provate repository
 
 
 ## 🌐 Socials:
