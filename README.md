@@ -1,6 +1,8 @@
 ## Hi, I am Raja
 # 💫 About Me:
-I am currently working on Arbor . 
+I am currently working on Arbor, a branch-based chatbot that keeps your chats, doubts, and everything organised.
+Arbor also optimizes token usage by using the context up to the branch you are in. 
+So fork it, run it locally, give it a star.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raja-520878324/) 
